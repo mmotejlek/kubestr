@@ -5,7 +5,7 @@ go 1.17
 replace github.com/graymeta/stow => github.com/kastenhq/stow v0.1.2-kasten
 
 require (
-	github.com/briandowns/spinner v1.18.1
+	github.com/briandowns/spinner v1.22.0
 	github.com/golang/mock v1.6.0
 	github.com/kanisterio/kanister v0.0.0-20220712181324-befdee224291
 	github.com/kubernetes-csi/external-snapshotter/client/v4 v4.2.0
@@ -83,7 +83,7 @@ require (
 	golang.org/x/net v0.0.0-20220617184016-355a448f1bc9 // indirect
 	golang.org/x/oauth2 v0.0.0-20220608161450-d0670ef3b1eb // indirect
 	golang.org/x/sys v0.0.0-20220615213510-4f61da869c0c // indirect
-	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
+	golang.org/x/term v0.1.0 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20220210224613-90d013bbcef8 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
